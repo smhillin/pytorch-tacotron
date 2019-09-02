@@ -1,6 +1,5 @@
 import argparse
 import torch
-import .
 from tacotron2.data_function import TextMelLoader
 from common.utils import load_filepaths_and_text
 
